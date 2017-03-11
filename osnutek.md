@@ -5,4 +5,4 @@
 	-	The relationship between the victim and the perpetrator.
 	-	Graphs showing the crimes, sorted by city, state, year, month etc.
 
-For seminar we are going to use data from https://www.kaggle.com/murderaccountability/homicide-reports, data contains information about homicides in United states.
+We are going to use data from https://www.kaggle.com/murderaccountability/homicide-reports, data contains information about homicides in United states.
