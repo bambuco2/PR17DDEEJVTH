@@ -12,27 +12,27 @@ Data that we got from kaggle.com is in a csv file, it's presented in a table wit
 Each column is a different attribute and each row presents a homicide.
 
 ###Attributes:
-	<ul>
-	<li> Record ID </li>
-	<li> Agency Code </li>
-	<li> Agency Name </li>
-	<li> Agency Type </li>
-	<li> City </li>
-	<li> State </li>
-	<li> Year </li>
-	<li> Month </li>
-	<li> Incident </li>
-	<li>Crime Type </li>
-	<li> Crime Solved </li>
-	<li> Victim Sex </li>
-	<li> Victim Age </li>
-	<li>Victim Race </li>
-	<li> Victim Ethnicity </li>
-	<li> Perpetrator Race </li>
-	<li> Perpetrator Ethnicity </li>
-	<li> Relationship </li>
-	<li>Weapon </li>
-	<li> Victim Count </li>
-	<li> Perpetrator Count </li>
-	<li>Record Source </li>
-	</ul>
+	
+* Record ID
+* Agency Code
+* Agency Name 
+* Agency Type 
+* City 
+* State 
+* Year 
+* Month 
+* Incident 
+* Crime Type 
+* Crime Solved 
+* Victim Sex 
+* Victim Age 
+* Victim Race 
+* Victim Ethnicity
+* Perpetrator Race 
+* Perpetrator Ethnicity 
+* Relationship 
+* Weapon 
+* Victim Count
+* Perpetrator Count
+* Record Source 
+	
