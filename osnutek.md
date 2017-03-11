@@ -5,4 +5,4 @@
 	-	The relationship between the victim and the perpetrator.
 	-	Graphs showing the crimes, sorted by city, state, year, month etc.
 
-*We are going to use data from https://www.kaggle.com/murderaccountability/homicide-reports. It contains information about homicides in the United States from 1980-2014.*
+*We are going to use data from https://www.kaggle.com/murderaccountability/homicide-reports. It contains information about homicides in the United States from 1980-2014. Data comes from United States government and FBI.*
