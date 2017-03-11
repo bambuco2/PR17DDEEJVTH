@@ -1,2 +1,2 @@
 # PR17DDEEJVTH
-<p>Seminarska naloga, Podatkovno rudarjenje</p>
+<b>Seminarska naloga, Podatkovno rudarjenje</b>
