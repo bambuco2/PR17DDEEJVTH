@@ -16,7 +16,7 @@ Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/spol_umor.png)
 <br/>
 <br/>
-![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/race_umor.png)
+
 
 
 
