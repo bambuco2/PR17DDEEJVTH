@@ -14,3 +14,4 @@ Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
 1) Najprej smo želeli vedeti kateri spol in katera rasa povzroči največ umorov v US.<br/>
 
 
+
