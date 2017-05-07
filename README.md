@@ -12,7 +12,7 @@ In this data there were also unknown values, always marked as "Unknown", for som
 
 We tried to find some interesting things in the data.<br/>
 
-1) First we wanted to know which sex and which race commits more murders in US.<br/>
+### First we wanted to know which sex and which race commits more murders in US.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/spol_umor.png)
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/race_umor.png)
@@ -20,7 +20,7 @@ We tried to find some interesting things in the data.<br/>
 So from this two graphs we can see that when it comes to sex murders are not even close. Males commit way more murders than Females.<br/>
 And for race, we can see that whites and blacks are usually the perpetrators. Whites are slighty more frequent, but not by much.
 
-2) Which agencies are the most effective when it comes to murder solving .<br/>
+### Which agencies are the most effective when it comes to murder solving .<br/>
 
 'County Police': 0.66<br/>
 'Municipal Police': 0.68<br/>
@@ -32,7 +32,7 @@ And for race, we can see that whites and blacks are usually the perpetrators. Wh
 <br/>
 From this we can see that Tribal and State police are the most effective when it comes to murder solving, but this is also effective by number of the cases they have to solve.<br/>
 Tribal police has only had about 50 murders between 1980 and 2014, thus giving them more time to solve each murder.<br/>
-3) Frequency of weapons that were used.<br/>
+### Frequency of weapons that were used.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja.png)
 
 
