@@ -12,7 +12,7 @@ V podatkih so bile tudi neznane vrednosti, vedno označene z »Unknown«, za dol
 
 Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
 1) Najprej smo želeli vedeti kateri spol in katera rasa povzroči največ umorov v US.<br/>
-![alt text](http://imgur.com/a/bfeqE)
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/spol_umor.png)
 
 
 
