@@ -36,7 +36,7 @@ Tribal police has only had about 50 murders between 1980 and 2014, thus giving t
 ### Frequency of weapons used.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja.png)
 
-From this graph we can see, that handgun is the most popular weapon when it comes to murders. No suprise there, since pretty much anyone can get a handgun in US. They are easy to use and also distances you from your victim.
+From this graph we can see, that handgun is the most popular weapon when it comes to murders. No suprise there, since pretty much anyone can get a handgun in US. They are cheap, easy to use and also distances you from your victim.
 
 
 
