@@ -16,6 +16,17 @@ Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/race_umor.png)
 
+2) Katera agencija je najbolj učinkovita pri reševanju umorov.
+
+'County Police': 0.66
+'Municipal Police': 0.68
+'Regional Police': 0.79
+'Sheriff': 0.78
+'Special Police': 0.71
+'State Police': 0.82
+'Tribal Police': 0.92
+
+
 
 
 
