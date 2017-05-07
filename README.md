@@ -30,10 +30,12 @@ And for race, we can see that whites and blacks are usually the perpetrators. Wh
 'State Police': 0.82<br/>
 'Tribal Police': 0.92<br/>
 <br/>
-From this we can see that Tribal and State police are the most effective when it comes to murder solving, but this is also effective by number of the cases they have to solve.<br/>
+From this we can see that Tribal and State police are the most effective when it comes to murder solving, but this is also effected by number of the cases they have to solve.<br/>
 Tribal police has only had about 50 murders between 1980 and 2014, thus giving them more time to solve each murder.<br/>
 ### Frequency of weapons that were used.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja.png)
+
+From this graph we can see, that handgun is the most popular weapon when it comes to murders. No suprise there, since pretty much anyone can get a handgun in US. They are easy to use and also distance you from your victim.
 
 
 
