@@ -26,7 +26,7 @@ Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
 'State Police': 0.82<br/>
 'Tribal Police': 0.92<br/>
 <br/>
-3) Frekvenca "načina" umora.<br/>
+3) Frekvenca uporabljenih orožij/načinov umora.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja.png)
 
 
