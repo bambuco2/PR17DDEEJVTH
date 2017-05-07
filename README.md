@@ -20,17 +20,19 @@ We tried to find some interesting things in the data.<br/>
 So from this two graphs we can see that when it comes to sex murders are not even close. Males commit way more murders than Females.<br/>
 And for race, we can see that whites and blacks are usually the perpetrators. Whites are slighty more frequent, but not by much.
 
-2) Katera agencija je najbolj učinkovita pri reševanju umorov.<br/>
+2) Which agencies are the most effective when it comes to murder solving .<br/>
 
 'County Police': 0.66<br/>
 'Municipal Police': 0.68<br/>
-'Regional Police': 0.79<br/>
-'Sheriff': 0.78<br/>
 'Special Police': 0.71<br/>
+'Sheriff': 0.78<br/>
+'Regional Police': 0.79<br/>
 'State Police': 0.82<br/>
 'Tribal Police': 0.92<br/>
 <br/>
-3) Frekvenca uporabljenih orožij/načinov umora.<br/>
+From this we can see that Tribal and State police are the most effective when it comes to murder solving, but this is also effective by number of the cases they have to solve.<br/>
+Tribal police has only had about 50 murders between 1980 and 2014, thus giving them more time to solve each murder.<br/>
+3) Frequency of weapons that were used.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja.png)
 
 
