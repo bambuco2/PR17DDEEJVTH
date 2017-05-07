@@ -1,7 +1,7 @@
 # PR17DDEEJVTH
 Seminarska naloga, Podatkovno rudarjenje
 
-#Podatki
+## Podatki
 
 Podatke smo dobili na spletni strani kaggle.com, gre za zbirko poročil o umorih v US od leta 1980 pa do 2014.
 Podatki so v obliki tabele, vrstice predstavljajo posamezen umor, stolpci pa dejanske atribute v teh umorih, kot so naprimer: spol morilca in žrte, orožje, agencija, ki je reševala umor...
