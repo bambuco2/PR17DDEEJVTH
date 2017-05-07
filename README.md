@@ -43,5 +43,13 @@ From this graph we can see, that handgun is the most popular weapon when it come
 But if we look at weapon used and we devide them in groups by races, we can see an interesting result for Native Americans, they 
 prefer knife over handguns unlike other races.
 
+### Relationship between perpetrator and victim.<br/>
+
+When we look at relationship between victim and perpetrator we see nothing interesting, victims know their perpetrators, "Acquaintance" is the most common relationship.
+But if we devide relationship into two groups by sex of the perpetrators, we can see some very interesting things.
 
 
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_male.png)
+The first graph represents males, they seem to murder complete strangers.<br/>
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_female.png)
+If we look at this graph, that represents females, we can see, that their victims are usually very personal, like husband and boyfriend.
