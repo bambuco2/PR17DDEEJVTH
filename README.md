@@ -12,7 +12,7 @@ In this data there were also unknown values, always marked as "Unknown", for som
 
 We tried to find some interesting things in the data.<br/>
 
-### First we wanted to know which sex and which race commits more murders in US.<br/>
+### Which sex and which race commits more murders in US.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/spol_umor.png)
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/race_umor.png)
