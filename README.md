@@ -38,6 +38,10 @@ Tribal police has only had about 50 murders between 1980 and 2014, thus giving t
 
 From this graph we can see, that handgun is the most popular weapon when it comes to murders. No suprise there, since pretty much anyone can get a handgun in US. They are cheap, easy to use and also distances you from your victim.
 
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/orozja_native.png)
+
+But if we look at weapon used and we devide them in groups by races, we can see an interesting result for Native Americans, they 
+prefer knife over handguns unlike other races.
 
 
 
