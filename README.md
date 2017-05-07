@@ -11,6 +11,6 @@ V podatkih so bile tudi neznane vrednosti, vedno označene z »Unknown«, za dol
 ## Ugotovitve
 
 Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
-Najprej smo želeli vedeti kateri spol in katera rasa povzroči največ umorov v US.<br/>
+1) Najprej smo želeli vedeti kateri spol in katera rasa povzroči največ umorov v US.<br/>
 
 
