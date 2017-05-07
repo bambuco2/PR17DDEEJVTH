@@ -8,4 +8,9 @@ Podatki so v obliki tabele, vrstice predstavljajo posamezen umor, stolpci pa dej
 V podatkih so bile tudi neznane vrednosti, vedno označene z »Unknown«, za določene atribute, kot je naprimer orožje, sem probal pridobiti vrednost, glede na vse ostale umori, pomagal sem si s spolom morilca in pa žrtve.<br/>
 <br/>
 
+## Ugotovitve
+
+Pregledali smo podatke in odkrili par "zanimivih" stvari.<br/>
+Najprej smo želeli vedeti kateri spol in katera rasa povzroči največ umorov v US.<br/>
+
 
