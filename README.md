@@ -54,11 +54,7 @@ The first graph represents males, they seem to murder complete strangers.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_female.png)
 If we look at this graph, that represents females, we can see, that their victims are usually very personal, like husband and boyfriend.
 
-###Finding similarities between years
+### Finding similarities between years
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/avg_age.png)
 
-
-###Finding similarities between years
-
-![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/avg_age.png)
