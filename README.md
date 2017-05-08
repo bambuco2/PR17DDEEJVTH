@@ -56,15 +56,15 @@ If we look at this graph, that represents females, we can see, that their victim
 
 ### Finding similarities between years
 
-##### Average age of victims and perpetrators
+#### Average age of victims and perpetrators
 For each year, I've calculated the average ages of both victims and perpetrators, to see are there any diffrences between them. As show by the data, the victims are 3-4 years older than the perpetrators
 on average, and we see slight increase in the victims age in the years 2012 and 2014.
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/avg_age.png)
 
-##### Relationships and Weapons used
+#### Relationship between victim and perpetrator
 
-Here i've calculated the victims relationship with the perpetrator:<br/>
+Here i've calculated the top 5 most recurring relationships that the victims had with the perpetrator:<br/>
 1980 -> [('Acquaintance', 5499), ('Stranger', 3667), ('Wife',   915),  ('Friend', 828), 	 ('Husband', 630)]<br/>
 1981 -> [('Acquaintance', 5324), ('Stranger', 3698), ('Wife',   866),  ('Friend', 841), 	 ('Husband', 638)]<br/>
 1982 -> [('Acquaintance', 5105), ('Stranger', 3851), ('Wife',   817),  ('Friend', 717), 	 ('Husband', 535)]<br/>
@@ -104,3 +104,43 @@ Here i've calculated the victims relationship with the perpetrator:<br/>
 We can see that acquaintance and stranger are the two most common relationships between the victim and the perpetrator throughout the years. The diffrences between early 1980s to the rest is that there are significant amount
 of husbands being killed at that period, but later we see that the main perpetrators are mostly men, with wife and girlfriend being the usual victims.
 
+#### Weapons used
+
+Here is the date for the top 3 weapons used throughout the years:<br/>
+1980 -> [('Handgun', 10845), ('Knife', 4255), ('Blunt Object', 2397)]<br/>
+1981 -> [('Handgun', 9952), ('Knife', 3945), ('Blunt Object', 2186)]<br/>
+1982 -> [('Handgun', 9164), ('Knife', 4107), ('Blunt Object', 2283)]<br/>
+1983 -> [('Handgun', 8832), ('Knife', 4120), ('Blunt Object', 2354)]<br/>
+1984 -> [('Handgun', 8109), ('Knife', 3675), ('Blunt Object', 2159)]<br/>
+1985 -> [('Handgun', 8066), ('Knife', 3727), ('Blunt Object', 2173)]<br/>
+1986 -> [('Handgun', 8992), ('Knife', 3997), ('Blunt Object', 2421)]<br/>
+1987 -> [('Handgun', 8342), ('Knife', 3675), ('Blunt Object', 2230)]<br/>
+1988 -> [('Handgun', 8673), ('Knife', 3484), ('Blunt Object', 2253)]<br/>
+1989 -> [('Handgun', 9607), ('Knife', 3483), ('Blunt Object', 2207)]<br/>
+1990 -> [('Handgun', 10784), ('Knife', 3569), ('Blunt Object', 2229)]<br/>
+1991 -> [('Handgun', 12197), ('Knife', 3461), ('Blunt Object', 2336)]<br/>
+1992 -> [('Handgun', 13333), ('Knife', 3337), ('Blunt Object', 2196)]<br/>
+1993 -> [('Handgun', 14038), ('Knife', 2998), ('Blunt Object', 2204)]<br/>
+1994 -> [('Handgun', 13599), ('Knife', 2823), ('Blunt Object', 2101)]<br/>
+1995 -> [('Handgun', 11931), ('Knife', 2584), ('Blunt Object', 2151)]<br/>
+1996 -> [('Handgun', 9893), ('Knife', 2498), ('Blunt Object', 1943)]<br/>
+1997 -> [('Handgun', 9072), ('Knife', 2215), ('Blunt Object', 1840)]<br/>
+1998 -> [('Handgun', 8357), ('Knife', 2023), ('Blunt Object', 1893)]<br/>
+1999 -> [('Handgun', 7493), ('Knife', 1868), ('Blunt Object', 1836)]<br/>
+2000 -> [('Handgun', 7567), ('Knife', 1908), ('Blunt Object', 1692)]<br/>
+2001 -> [('Handgun', 7816), ('Knife', 1976), ('Blunt Object', 1821)]<br/>
+2002 -> [('Handgun', 8239), ('Knife', 1950), ('Blunt Object', 1800)]<br/>
+2003 -> [('Handgun', 8706), ('Knife', 2013), ('Blunt Object', 1780)]<br/>
+2004 -> [('Handgun', 8174), ('Knife', 2060), ('Blunt Object', 1803)]<br/>
+2005 -> [('Handgun', 8401), ('Knife', 2099), ('Firearm', 1842)]<br/>
+2006 -> [('Handgun', 8845), ('Knife', 2048), ('Firearm', 1752)]<br/>
+2007 -> [('Handgun', 8543), ('Firearm', 2142), ('Knife', 2011)]<br/>
+2008 -> [('Handgun', 7310), ('Firearm', 2132), ('Knife', 2074)]<br/>
+2009 -> [('Handgun', 7554), ('Firearm', 2149), ('Knife', 2010)]<br/>
+2010 -> [('Handgun', 7084), ('Firearm', 2261), ('Knife', 1899)]<br/>
+2011 -> [('Handgun', 7221), ('Firearm', 1969), ('Knife', 1899)]<br/>
+2012 -> [('Handgun', 7418), ('Firearm', 2235), ('Knife', 1765)]<br/>
+2013 -> [('Handgun', 6733), ('Firearm', 2491), ('Knife', 1659)]<br/>
+2014 -> [('Handgun', 6594), ('Firearm', 2526), ('Knife', 1747)]<br/>
+
+From 1980 to 2004, we can see that the usual weapon choices of Handgun, Knife and Blunt Object does not change. But since 2005, Firearm are starting to get more popular, with guns occupying the top 2 spots from 2007 to 2014.
