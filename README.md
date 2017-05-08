@@ -1,6 +1,10 @@
 # PR17DDEEJVTH
 Seminarska naloga, Podatkovno rudarjenje
 
+## Problem
+
+Determining the next possible victim in the US and the likelihood of the case being solved, by analyzing a data from previous homicide reports from 1980-2014.
+
 ## Data
 
 We got data from [Kaggle](https://www.kaggle.com/murderaccountability/homicide-reports), it has reports about murders commited in US between 1980 and 2014. <br/>
