@@ -144,3 +144,10 @@ Here is the date for the top 3 weapons used throughout the years:<br/>
 2014 -> ('Handgun', 6594), ('Firearm', 2526), ('Knife', 1747)<br/>
 
 From 1980 to 2004, we can see that the usual weapon choices of Handgun, Knife and Blunt Object does not change. But since 2005, Firearm are starting to get more popular, with guns occupying the top 2 spots from 2007 to 2014.
+
+### Average ages by city
+
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/means.png)
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/px.png)
+
+Here you can see the normal distribution of average victim ages by cities.
