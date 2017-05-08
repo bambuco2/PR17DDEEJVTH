@@ -56,5 +56,8 @@ If we look at this graph, that represents females, we can see, that their victim
 
 ### Finding similarities between years
 
+For each year, I've calculated the average ages of both victims and perpetrators, to see are there any diffrences between them. As show by the data, the victims are 3-4 years older than the perpetrators
+on average, and we see slight increase in the victims age in the years 2012 and 2014.
+
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/avg_age.png)
 
