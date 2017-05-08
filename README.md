@@ -64,7 +64,7 @@ on average, and we see slight increase in the victims age in the years 2012 and 
 
 ##### Relationships and Weapons used
 
-Here i've calculated the victims relationship with the perpetrator:
+Here i've calculated the victims relationship with the perpetrator:<br/>
 1980 -> [('Acquaintance', 5499), ('Stranger', 3667), ('Wife',   915),  ('Friend', 828), 	 ('Husband', 630)]<br/>
 1981 -> [('Acquaintance', 5324), ('Stranger', 3698), ('Wife',   866),  ('Friend', 841), 	 ('Husband', 638)]<br/>
 1982 -> [('Acquaintance', 5105), ('Stranger', 3851), ('Wife',   817),  ('Friend', 717), 	 ('Husband', 535)]<br/>
@@ -92,14 +92,14 @@ Here i've calculated the victims relationship with the perpetrator:
 2004 -> [('Acquaintance', 2605), ('Stranger', 2289), ('Wife',   565),  ('Girlfriend', 467),  ('Friend', 346)]<br/>
 2005 -> [('Acquaintance', 2616), ('Stranger', 2501), ('Wife',   581),  ('Girlfriend', 485),  ('Friend', 348)]<br/>
 2006 -> [('Acquaintance', 2809), ('Stranger', 2407), ('Wife',   556),  ('Girlfriend', 459),  ('Friend', 391)]<br/>
-2007 -> [('Stranger', 	  2431), ('Acquain.', 2392), ('Wife',   572),  ('Friend', 508), 	 ('Girlfriend', 493)]<br/>
+2007 -> [('Stranger', 	  2431), ('Acquaintance', 2392), ('Wife',   572),  ('Friend', 508), 	 ('Girlfriend', 493)]<br/>
 2008 -> [('Acquaintance', 2242), ('Stranger', 1754), ('Wife',   567),  ('Friend', 511), 	 ('Girlfriend', 504)]<br/>
 2009 -> [('Acquaintance', 2226), ('Stranger', 2207), ('Wife',   627),  ('Girlfriend', 480),  ('Friend', 460)]<br/>
-2010 -> [('Stranger',     2142), ('Acquain.', 2065), ('Wife',   594),  ('Girlfriend', 509),  ('Friend', 442)]<br/>
+2010 -> [('Stranger',     2142), ('Acquaintance', 2065), ('Wife',   594),  ('Girlfriend', 509),  ('Friend', 442)]<br/>
 2011 -> [('Acquaintance', 2082), ('Stranger', 1989), ('Wife',   551),  ('Girlfriend', 494),  ('Friend', 421)]<br/>
-2012 -> [('Stranger',     2137), ('Acquain.', 1992), ('Wife',   525),  ('Girlfriend', 517),  ('Friend', 396)]<br/>
+2012 -> [('Stranger',     2137), ('Acquaintance', 1992), ('Wife',   525),  ('Girlfriend', 517),  ('Friend', 396)]<br/>
 2013 -> [('Acquaintance', 1924), ('Stranger', 1863), ('Wife',   515),  ('Girlfriend', 488),  ('Friend', 384)]<br/>
-2014 -> [('Stranger',     1961), ('Acquain.', 1821), ('Wife',   502),  ('Girlfriend', 430),  ('Friend', 382)]<br/>
+2014 -> [('Stranger',     1961), ('Acquaintance', 1821), ('Wife',   502),  ('Girlfriend', 430),  ('Friend', 382)]<br/>
 
 We can see that acquaintance and stranger are the two most common relationships between the victim and the perpetrator throughout the years. The diffrences between early 1980s to the rest is that there are significant amount
 of husbands being killed at that period, but later we see that the main perpetrators are mostly men, with wife and girlfriend being the usual victims.
