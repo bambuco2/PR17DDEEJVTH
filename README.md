@@ -154,4 +154,65 @@ From 1980 to 2004, we can see that the usual weapon choices of Handgun, Knife an
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/means.png)
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/px.png)
 
-Here you can see the normal distribution of average victim ages by cities.
+Here you can see the normal distribution of average victim ages by cities.<br/>
+And here are the cities that are in the bottom 5% of the results.<br/>
+Allamakee | mean : 3.000<br/>
+Baca | mean : 12.500<br/>
+Baraga | mean : 24.000<br/>
+Barnes | mean : 22.167<br/>
+Bottineau | mean : 24.250<br/>
+Bronx | mean : 8.000<br/>
+Burt | mean : 25.333<br/>
+Carlisle | mean : 14.000<br/>
+Cavalier | mean : 21.000<br/>
+Chase | mean : 16.000<br/>
+Cloud | mean : 25.714<br/>
+Crowley | mean : 13.000<br/>
+Dickey | mean : 24.500<br/>
+Divide | mean : 15.000<br/>
+Doniphan | mean : 1.000<br/>
+Dubuque | mean : 22.833<br/>
+Dukes | mean : 23.750<br/>
+Edmunds | mean : 11.778<br/>
+Fall River | mean : 25.800<br/>
+Fallon | mean : 18.000<br/>
+Faulk | mean : 15.000<br/>
+Foard | mean : 25.000<br/>
+Gasconade | mean : 6.333<br/>
+Glasscock | mean : 22.000<br/>
+Goodhue | mean : 22.778<br/>
+Guthrie | mean : 25.667<br/>
+Hanson | mean : 16.000<br/>
+Hot Springs | mean : 24.800<br/>
+Ida | mean : 10.000<br/>
+Jo Daviess | mean : 21.000<br/>
+Labette | mean : 24.938<br/>
+Lipscomb | mean : 24.500<br/>
+Major | mean : 25.800<br/>
+McCone | mean : 3.000<br/>
+Merrick | mean : 20.857<br/>
+Missaukee | mean : 24.600<br/>
+Montour | mean : 22.500<br/>
+Mountrail | mean : 24.429<br/>
+O'Brien | mean : 25.750<br/>
+Palo Alto | mean : 17.000<br/>
+Parmer | mean : 25.556<br/>
+Powder River | mean : 18.000<br/>
+Ralls | mean : 25.333<br/>
+Ransom | mean : 11.500<br/>
+Rawlins | mean : 18.000<br/>
+Red Lake | mean : 20.000<br/>
+Richardson | mean : 23.667<br/>
+Ringgold | mean : 9.000<br/>
+Sibley | mean : 25.000<br/>
+Skagway-Hoonah-Angoon | mean : 17.000<br/>
+Somervell | mean : 25.714<br/>
+Stanton | mean : 25.500<br/>
+Storey | mean : 23.333<br/>
+Swift | mean : 22.667<br/>
+Traverse | mean : 17.000<br/>
+Treasure | mean : 25.000<br/>
+Tripp | mean : 19.000<br/>
+Wirt | mean : 23.250<br/>
+Yates | mean : 21.600<br/>
+Yellow Medicine | mean : 25.333<br/>
