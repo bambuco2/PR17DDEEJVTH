@@ -58,6 +58,9 @@ The first graph represents males, they seem to murder complete strangers.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_female.png)
 If we look at this graph, that represents females, we can see, that their victims are usually very personal, like husband and boyfriend.
 
+### Ranking attributes based on how heavily they contribute to crime being solved.<br/>
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.png)
+
 ### Finding similarities between years
 
 #### Average age of victims and perpetrators
