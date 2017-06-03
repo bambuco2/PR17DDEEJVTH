@@ -58,7 +58,7 @@ The first graph represents males, they seem to murder complete strangers.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_female.png)
 If we look at this graph, that represents females, we can see, that their victims are usually very personal, like husband and boyfriend.
 
-### Ranking attributes based on how heavily they contribute to crime being solvable.<br/>
+### Ranking attributes based on how much information they provide, when it comes to classifying crimes as being solvable or not.<br/>
 We have used measures such as Information Gain and Information gain ratio, to see, which attributes contribute the most when it comes to determining whether a random crime can be solved or not, based on presented attributes for that crime. 
 <br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.jpg)<br/>
