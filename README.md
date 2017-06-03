@@ -60,6 +60,7 @@ If we look at this graph, that represents females, we can see, that their victim
 
 ### Ranking attributes based on how heavily they contribute to crime being solved.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.jpg)
+We have used measures such as Information Gain and Information Ratio
 
 ### Finding similarities between years
 
