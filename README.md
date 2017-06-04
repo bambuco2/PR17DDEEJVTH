@@ -1,10 +1,9 @@
-# PR17DDEEJVTH
+# PR17DDEE
 Seminarska naloga, Podatkovno rudarjenje
 
 ## Problem
 
-Determining the next possible victim in the US and the likelihood of the case being solved, by analyzing a data from previous homicide reports from 1980-2014.
-
+The likelihood of a case being solved, by analyzing the data from previous homicide reports from 1980-2014 and finding interesting things, connections and occurrences in the data.
 ## Data
 
 We got data from [Kaggle](https://www.kaggle.com/murderaccountability/homicide-reports), it has reports about murders commited in US between 1980 and 2014. <br/>
@@ -108,5 +107,3 @@ Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes |
 Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.64000<br/>
 
 As you can see from the results, the classifier correctly predicts if the crime is going to be solved or not.
-
-
