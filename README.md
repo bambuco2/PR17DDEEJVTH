@@ -62,7 +62,7 @@ If we look at this graph, that represents females, we can see, that their victim
 We have used measures such as Information Gain and Information gain ratio, to see, which attributes contribute the most when it comes to determining whether a random crime can be solved or not, based on presented attributes for that crime. 
 <br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.jpg)<br/>
-From this picture, we can see that Perpetrators sex and Perpetrators race are the strongest attributes. Based on our calculations, these two attributes are the strongest, when it comes to determining whether a random crime can/will be solved. In other words, if Perpetrators sex and Perpetrators race are known for a random crime, there is a high chance that we already know whether this crime can be solved or not.
+From this picture, we can see that Perpetrators sex and Perpetrators race are the strongest attributes. Based on our calculations, these two attributes are the strongest, when it comes to determining whether a random crime can/will be solved or not. In other words, if Perpetrators sex and Perpetrators race are known for a random crime, there is a high chance that we already know whether this crime can be solved or not.
 
 
 ### Finding similarities between years
