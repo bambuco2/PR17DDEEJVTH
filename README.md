@@ -96,14 +96,11 @@ We have used measures such as Information Gain and Information gain ratio, to se
 From this picture, we can see that Perpetrators sex and Perpetrators race are the strongest attributes. Based on our calculations, these two attributes are the strongest, when it comes to determining whether a random crime can/will be solved or not. 
 In other words, if Perpetrators sex and Perpetrators race are known for a random crime, there is a high chance that we already know whether this crime can be solved or not.
 
-### Using Naive Bayes to predict if the crime is going to be solved.<br/>
-We are going to use Naive Bayes classifier with the 5 best attributes that we previously discoved, to predict if the crime is going to be solved. Here are some results:<br/>
-Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.20000<br/>
-Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.20000<br/>
-Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.16000<br/>
-Row=['No' 'Unknown' '30' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.16000<br/>
-Row=['No' 'Unknown' '50' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.16000<br/>
-Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.64000<br/>
-Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.64000<br/>
+### Using KNN and Naive Bayes to predict whether a random crime is going to be solved or not.<br/>
+Since we used Information gain and information gain ratio to determine which attributes are the best, when it comes to classifying whether a crime can be solved or not, the only right thing to do next, is to test them on some models. So we used only those five attributes in our KNN and Naive Bayes models. We ran those two models on whole data set, with random sampling we chose which rows go into training and which into test set, 75% went into training and the rest into test set, for evaluation of models we used Classification accuracy. <br/>
+This are the results of testing:
+      CA:
+KNN: 0.989
+NB:  0.997
 
-As you can see from the results, the classifier correctly predicts if the crime is going to be solved or not.
+From this we can see, that Naive Bayes did a little bit better than KNN, but results are still very good in both cases, which means our calculations with Information gain and information gain ratio were right.
