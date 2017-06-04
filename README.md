@@ -99,7 +99,7 @@ In other words, if Perpetrators sex and Perpetrators race are known for a random
 ### Using KNN and Naive Bayes to predict whether a random crime is going to be solved or not.<br/>
 Since we used Information gain and information gain ratio to determine which attributes are the best, when it comes to classifying whether a crime can be solved or not, the only right thing to do next, is to test them on some models. So we used only those five attributes in our KNN and Naive Bayes models. We ran those two models on whole data set, with random sampling we chose which rows go into training and which into test set, 75% went into training and the rest into test set, for evaluation of models we used Classification accuracy. <br/>
 This are the results of testing:<br/>
-Method:      CA:<br/>
+
 KNN: 0.989<br/>
 NB:  0.997<br/>
 
