@@ -93,7 +93,8 @@ In the 1980s and 1990s, we can see that the usual weapon choices of Handgun, Kni
 
 ### Average ages by city
 
-![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/means.png)
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/age_means.png)
 
+Here you can see the normal distribution of average victim ages by cities. From this we can see that there are some cities that are outliers and have an average age of the victims bellow 20, and arround 80.
 
 
