@@ -22,7 +22,7 @@ We tried to find some interesting things in the data.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/race_umr.png)
 <br/>
 So from this two graphs we can see that when it comes to sex murders are not even close. Males commit way more murders than Females.<br/>
-And for race, black and whites are usually the perpetrators, even though blacks are a minority in the US, population of blacks in US is at about 12.6%. We got stats about Race and ethnicity in US from [Wikipedia](https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States), so take those numbers with a grain of salt. 
+And for race, we have decided to also incorporate % of population in the graph, since it is not equally distributed, black and whites are usually the perpetrators, even though blacks are a minority in the US, population of blacks in US is at about 12.6%. We got stats about Race and ethnicity in US from [Wikipedia](https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States), so take those numbers with a grain of salt. 
 
 ### Which agencies are the most effective when it comes to murder solving .<br/>
 
