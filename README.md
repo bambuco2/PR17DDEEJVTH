@@ -68,11 +68,11 @@ on average, and we see slight increase in the victims age in the years 2012 and 
 
 #### Relationship between victim and perpetrator
 
-Here i've calculated the top 6 most recurring relationships that the victims had with the perpetrator through the decades:<br/>
+Here I've calculated the top 6 most recurring relationships that the victims had with the perpetrator through the decades:<br/>
 
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/relat_decad.png)
 
-We can see that acquaintance and stranger are the two most common relationships between the victim and the perpetrator throughout the years. In the 1980s there are a lot of husband appearing as victims, 
+We can see that acquaintance and stranger are the two most common relationships between the victim and the perpetrator throughout the years. In the 1980s there are a lot of husbands appearing as victims, 
 but later we see that the main perpetrators are mostly men, with wife and girlfriend being the usual victims.
 
 #### Weapons used
