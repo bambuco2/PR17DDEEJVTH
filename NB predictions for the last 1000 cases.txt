@@ -1,0 +1,1002 @@
+Crime Solved, Perpetrator Sex,Perpetrator Age,Perpetrator Race,Perpetrator Ethnicity,Relationship
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '27' 'White' 'Not Hispanic' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Hispanic' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Hispanic' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '44' 'White' 'Not Hispanic' 'Mother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '34' 'White' 'Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '33' 'White' 'Hispanic' 'Neighbor'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '39' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '19' 'White' 'Hispanic' 'Brother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Hispanic' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '26' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '51' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '21' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Not Hispanic' 'Boyfriend/Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Not Hispanic' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Hispanic' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Not Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '61' 'White' 'Hispanic' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '68' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '0' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Stranger'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '18' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Not Hispanic' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '14' 'White' 'Hispanic' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '0' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '39' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '26' 'White' 'Hispanic' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '31' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '79' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '31' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '40' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '28' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '32' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '39' 'White' 'Not Hispanic' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '31' 'White' 'Not Hispanic' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'White' 'Hispanic' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '44' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '25' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '32' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '32' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '83' 'White' 'Not Hispanic' 'Stepdaughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '18' 'Native American/Alaska Native' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '51' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Unknown' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '52' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '23' 'Unknown' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Not Hispanic' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '59' 'White' 'Not Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '32' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '38' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '59' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '56' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '52' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '22' 'White' 'Unknown' 'Boyfriend/Girlfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '33' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '73' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '46' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '69' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '65' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '56' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '41' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '50' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '46' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '57' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '53' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '48' 'Black' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'Black' 'Unknown' 'Common-Law Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '65' 'White' 'Unknown' 'Ex-Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '65' 'White' 'Unknown' 'Ex-Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '18' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '53' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '56' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '50' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '64' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '64' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '22' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '22' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'White' 'Unknown' 'Stepson'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '63' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '36' 'Black' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Stepdaughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '65' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '42' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '65' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '27' 'White' 'Unknown' 'Brother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '68' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '30' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '56' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '57' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '22' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '25' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '62' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '50' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '65' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '61' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '61' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '56' 'Black' 'Unknown' 'Common-Law Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'White' 'Unknown' 'Brother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '62' 'Asian/Pacific Islander' 'Unknown' 'Common-Law Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '62' 'Asian/Pacific Islander' 'Unknown' 'Common-Law Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '53' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Unknown' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '50' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '54' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Boyfriend/Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '84' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '15' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '52' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '63' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '29' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '40' 'Black' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '21' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '43' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '34' 'Black' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '37' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '47' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'Black' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '20' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '16' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '44' 'Black' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '18' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '18' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '34' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '40' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '41' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '43' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '42' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '41' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '78' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '55' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '81' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '40' 'Asian/Pacific Islander' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '54' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '64' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '23' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '70' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '70' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'White' 'Unknown' 'Stepdaughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '62' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '62' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '60' 'White' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '53' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '12' 'White' 'Unknown' 'Sister'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '41' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '71' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '64' 'White' 'Unknown' 'Employee'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '41' 'Asian/Pacific Islander' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '20' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '45' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'Black' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Asian/Pacific Islander' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '28' 'White' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '55' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '53' 'White' 'Not Hispanic' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '41' 'Unknown' 'Unknown' 'Ex-Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Employee'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '36' 'Black' 'Unknown' 'Stepson'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Asian/Pacific Islander' 'Unknown' 'Employee'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '61' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '50' 'Black' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '41' 'White' 'Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Not Hispanic' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Not Hispanic' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Not Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '45' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '55' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '58' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '21' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '55' 'Asian/Pacific Islander' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '56' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '34' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '80' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'White' 'Unknown' 'In-Law'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '41' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '34' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '34' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '57' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '23' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '19' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'Asian/Pacific Islander' 'Not Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Not Hispanic' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'White' 'Not Hispanic' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'Black' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'Native American/Alaska Native' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'Native American/Alaska Native' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'Native American/Alaska Native' 'Not Hispanic' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'Native American/Alaska Native' 'Not Hispanic' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '61' 'White' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'White' 'Not Hispanic' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '46' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '40' 'White' 'Not Hispanic' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '32' 'White' 'Not Hispanic' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '32' 'White' 'Hispanic' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '29' 'White' 'Not Hispanic' 'Mother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '32' 'White' 'Hispanic' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '25' 'White' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '53' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '49' 'Unknown' 'Unknown' 'Stranger'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '41' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '22' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '38' 'Native American/Alaska Native' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Native American/Alaska Native' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Asian/Pacific Islander' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '78' 'Asian/Pacific Islander' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '37' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '44' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '46' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Asian/Pacific Islander' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '57' 'Unknown' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '47' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '78' 'Asian/Pacific Islander' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'Native American/Alaska Native' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '33' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '52' 'Native American/Alaska Native' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '0' 'Native American/Alaska Native' 'Unknown'
+ 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '39' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '68' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'Black' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Brother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'Black' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'In-Law'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'In-Law'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '30' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '60' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '56' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'Black' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Native American/Alaska Native' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '50' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '80' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'Black' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '54' 'White' 'Unknown' 'Stepson'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '57' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '76' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Native American/Alaska Native' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Stepfather'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '52' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'White' 'Unknown' 'Brother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '31' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '55' 'White' 'Unknown' 'Brother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '38' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '36' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '37' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '19' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '52' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'Black' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Asian/Pacific Islander' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '28' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '32' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Unknown' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '18' 'Unknown' 'Unknown' 'Stranger'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '33' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '18' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '22' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '38' 'Black' 'Unknown' 'Boyfriend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '42' 'Black' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '51' 'Black' 'Unknown' 'Sister'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '20' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '17' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '42' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '30' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Black' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'Black' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '32' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'Black' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '16' 'White' 'Unknown' 'Father'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '54' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '27' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '54' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '43' 'Black' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '21' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '49' 'White' 'Unknown' 'Neighbor'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '36' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '38' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '83' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Sister'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '57' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '58' 'Unknown' 'Unknown' 'Stranger'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '37' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '36' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '50' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '57' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Black' 'Unknown' 'Stranger'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '28' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '24' 'Black' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '42' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '52' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '31' 'Black' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '57' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'Unknown' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '55' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '40' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '59' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '55' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '33' 'White' 'Unknown' 'Son'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '67' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '34' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Female' '46' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '42' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '58' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '60' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '23' 'White' 'Unknown' 'Husband'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '45' 'White' 'Unknown' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '39' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '23' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '18' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '29' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Family'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '24' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '30' 'White' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.10900
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '30' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.12400
+Row=['No' 'Unknown' '50' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '15' 'White' 'Not Hispanic' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '61' 'White' 'Not Hispanic' 'Wife'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '16' 'Native American/Alaska Native' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '35' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '26' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '48' 'White' 'Not Hispanic' 'Mother'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '22' 'White' 'Unknown' 'Girlfriend'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Male' '67' 'Black' 'Unknown' 'Friend'] | predicted class=Yes | confidence=0.76700
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.12400
+Row=['Yes' 'Male' '57' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '22' 'Asian/Pacific Islander' 'Unknown' 'Daughter'] | predicted class=Yes | confidence=0.10900
+Row=['Yes' 'Male' '31' 'White' 'Not Hispanic' 'Stranger'] | predicted class=Yes | confidence=0.76700
+Row=['Yes' 'Female' '24' 'White' 'Not Hispanic' 'Daughter'] | predicted class=Yes | confidence=0.10900
