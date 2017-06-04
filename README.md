@@ -58,13 +58,6 @@ The first graph represents males, they seem to murder complete strangers.<br/>
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/odnos_female.png)
 If we look at this graph, that represents females, we can see, that their victims are usually very personal, like husband and boyfriend.
 
-### Ranking attributes based on how much information they provide, when it comes to classifying crimes as being solvable or not.<br/>
-We have used measures such as Information Gain and Information gain ratio, to see, which attributes contribute the most when it comes to determining whether a random crime can be solved or not, based on presented attributes for that crime. 
-<br/>
-![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.jpg)<br/>
-From this picture, we can see that Perpetrators sex and Perpetrators race are the strongest attributes. Based on our calculations, these two attributes are the strongest, when it comes to determining whether a random crime can/will be solved or not. 
-In other words, if Perpetrators sex and Perpetrators race are known for a random crime, there is a high chance that we already know whether this crime can be solved or not.
-
 
 ### Finding similarities between years
 
@@ -96,5 +89,24 @@ In the 1980s and 1990s, we can see that the usual weapon choices of Handgun, Kni
 ![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/age_means.png)
 
 Here you can see the normal distribution of average victim ages by cities. From this we can see that there are some cities that are outliers and have an average age of the victims bellow 20, and arround 80.
+
+### Ranking attributes based on how much information they provide, when it comes to classifying crimes as being solvable or not.<br/>
+We have used measures such as Information Gain and Information gain ratio, to see, which attributes contribute the most when it comes to determining whether a random crime can be solved or not, based on presented attributes for that crime. 
+<br/>
+![alt text](https://github.com/bambuco2/PR17DDEEJVTH/blob/master/atributi.jpg)<br/>
+From this picture, we can see that Perpetrators sex and Perpetrators race are the strongest attributes. Based on our calculations, these two attributes are the strongest, when it comes to determining whether a random crime can/will be solved or not. 
+In other words, if Perpetrators sex and Perpetrators race are known for a random crime, there is a high chance that we already know whether this crime can be solved or not.
+
+### Using Naive Bayes to predict if the crime is going to be solved.<br/>
+We are going to use Naive Bayes classifier with the 5 best attributes that we previously discoved, to predict if the crime is going to be solved. Here are some results:<br/>
+Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.20000<br/>
+Row=['Yes' 'Female' '35' 'White' 'Unknown' 'Unknown'] | predicted class=Yes | confidence=0.20000<br/>
+Row=['No' 'Unknown' '0' 'Unknown' 'Unknown' 'Unknown'] | predicted class=No | confidence=0.16000<br/>
+Row=['No' 'Unknown' '30' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.16000<br/>
+Row=['No' 'Unknown' '50' 'Unknown' 'Unknown' 'Acquaintance'] | predicted class=No | confidence=0.16000<br/>
+Row=['Yes' 'Male' '25' 'White' 'Unknown' 'Acquaintance'] | predicted class=Yes | confidence=0.64000<br/>
+Row=['Yes' 'Male' '20' 'White' 'Unknown' 'Stranger'] | predicted class=Yes | confidence=0.64000<br/>
+
+As you can see from the results, the classifier correctly predicts if the crime is going to be solved or not.
 
 
